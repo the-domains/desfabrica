@@ -1,0 +1,28 @@
+name: Desfábrica
+favicon: null
+layout_spectrum: 0.6822476347442716
+typography_spectrum: 0.7139519068878144
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.07946175965480506
+  lightness: 0.034868109971284866
+  saturation: 0.13466750434599817
+  rhythmicContrast: 0.6302231978625059
+purpose: []
